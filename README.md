@@ -47,8 +47,6 @@ The two amber notices above it are the part worth looking at:
 - One month of the year carries no recorded revenue. The notice does not assume an error. It says that if the client traded in that month the figures are incomplete, and if they did not, nothing is required.
 - The prior-year column is missing. Article 6.6 of the same instruction requires both years, and the ledger has no 2025, so that column has to come from the statement filed last year.
 
-Software that prints a number is easy. Software that tells the accountant what it cannot yet prove is the harder and more useful thing.
-
 ---
 
 ## A statutory rules engine, not hardcoded rates
